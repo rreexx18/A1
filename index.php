@@ -1,9 +1,13 @@
 <?php
     ini_set('display_errors', 'on');
 
-    $title = "Proyecto 2";
+    define('TITLE', "M7 A1");
+    define('AUTHOR',"ggarcia");
 
     include 'lib/header.php';
     include 'lib/body.php';
     include 'lib/footer.php';
-?>
+
+        
+        
+    
